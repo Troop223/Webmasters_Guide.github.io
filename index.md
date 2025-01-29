@@ -12,7 +12,6 @@
 <div class="backlink"><a href="https://troop223.github.io"><< Back</a></div>
 </div>
 
-
 <h1>Webmaster's Guide</h1>
 
 <hr>
@@ -21,53 +20,54 @@
 
 <hr>
 
-<h3>Getting Started</h3>
-
+### Getting started
+<br>
 So, where do we begin? First off is going to the editing site. Go to 'github.com' to get started.
 
-<hr>
+------- 
 
-<img src="https://github.com/user-attachments/assets/1a2b565b-dfc0-4313-a7fe-ce384c5266a6">
+![image](https://github.com/user-attachments/assets/1a2b565b-dfc0-4313-a7fe-ce384c5266a6)
 
-<hr>
+-------
 
 You will then be shown to the sign up/sign in page. I want you to now click the 'Sign In' option
 
-<hr>
+-------
 
-<img src="https://github.com/user-attachments/assets/c57448a4-3d42-4d88-b980-a731256387a1">
+![Screenshot 2025-01-10 12 25 01 PM](https://github.com/user-attachments/assets/c57448a4-3d42-4d88-b980-a731256387a1)
 
-<hr>
-  
+
+-------
+
 Now, using the Email address and Github password given to you the Webmaster (go you!), I want you to now sign in. Make sure you are using the password for gthub, and not the password for the Email's Protonmail account.
 
-<hr>
+-------
 
-<img src="https://github.com/user-attachments/assets/b79485dc-05db-4292-ab2d-31d8047ba6f8">
+![Screenshot 2025-01-10 12 25 14 PM](https://github.com/user-attachments/assets/b79485dc-05db-4292-ab2d-31d8047ba6f8)
 
-<hr>
+-------
 
 This is what it should look like when all the information is entered in correctly
 
-<hr>
+-------
 
-<img src="https://github.com/user-attachments/assets/de637f83-2c80-4828-93ba-5d5c4601f9e9">
+![Screenshot 2025-01-10 12 27 19 PM](https://github.com/user-attachments/assets/de637f83-2c80-4828-93ba-5d5c4601f9e9)
 
-<hr>
+-------
 
 Now, you will shown the Account's home page. There is a section called 'Top repositories', I want you to click 'Troop223/troop223.github.io' under it
 
-<hr>
+-------
 
-<img src="https://github.com/user-attachments/assets/b5dde513-80c5-4099-8628-3703e53fc850">
+![Screenshot 2025-01-10 12 27 40 PM](https://github.com/user-attachments/assets/b5dde513-80c5-4099-8628-3703e53fc850)
 
-<hr>
+-------
 
 You will now be in the main menu of the Repository. There are two options you can choose from now, One is to update Trip plans, and the other is to update Meeting plans. First I will show how to update Trip plans.
 
-<hr>
+-------
 
-<img src="https://github.com/user-attachments/assets/345e9ea4-b099-4670-9903-858497ce6dd0">
+![Screenshot 2025-01-11 1 54 48 AM](https://github.com/user-attachments/assets/345e9ea4-b099-4670-9903-858497ce6dd0)
 
 -------
 
@@ -223,8 +223,29 @@ Yours, <em> - Zephyr Carter.</em>
 <br>
 Article by <em> - Zephyr Carter.</em>
 
+<style>
 
+body {
 
+text-align: center;
 
+}
+.backlink {
+
+font-size: 20px; 
+ 
+}
+.backleft {
+
+text-align: left;
+
+}
   
+</style>
+
+
+
+
+
+
 
