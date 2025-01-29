@@ -1,4 +1,8 @@
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [Webmasters Guide]
+description: [This page helps The Webmaster (You!) learn how to post updates on the Website]
+show_downloads: [false]
+
 
